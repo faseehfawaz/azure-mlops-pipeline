@@ -1,0 +1,7 @@
+setuptools
+mlflow==2.12.1
+scikit-learn
+fastapi
+uvicorn
+numpy
+python-multipart
